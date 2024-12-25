@@ -22,7 +22,7 @@ const Aboutsection2 = () => {
               hasn’t always been easy for me. There were times when I struggled
               with finding the right balance between work, self-care, and a
               healthy lifestyle. Like many, I often felt overwhelmed by
-              conflicting advice about what it means to "be healthy."
+              conflicting advice about what it means to &quot;be healthy.&quot;
               <br />
               <br />
               Over time, I realized that wellness isn’t about perfection—it’s
