@@ -95,15 +95,16 @@ export default function Navbar({ bgColor, color }: NavbarPops) {
               </Link>
             </li>
             <li>
-              <Link href="/blog" onClick={toggleMenu}>
-                Articles
-              </Link>
-            </li>
-            <li>
-              <Link href="/" onClick={toggleMenu}>
+              <Link href="/about" onClick={toggleMenu}>
                 About
               </Link>
             </li>
+            <li>
+              <Link href="/article" onClick={toggleMenu}>
+                Articles
+              </Link>
+            </li>
+           
             <li>
               <button className="text-lg w-full text-left" onClick={toggleMenu}>
                 Sign in

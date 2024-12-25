@@ -30,7 +30,7 @@ export default function LatestArticles() {
               exit={{ opacity: 1, y: -20 }}
             >
               <Card
-                className="hover:scale-105 duration-300 transition-transform pb-3 rounded-2xl shadow-lg my-4 h-[450px] "
+                className="hover:scale-105 duration-300 transition-transform pb-3 rounded-2xl shadow-lg my-4 h-[600px] "
               >
                 <Image
                   src={post.src}

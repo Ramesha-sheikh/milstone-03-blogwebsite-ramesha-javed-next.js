@@ -19,7 +19,7 @@ export default function Blog() {
                 <div className="grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8 cursor-pointer pt-10">
                    {posts.map((post , index)=>(
                     <BlogAnimation key={index}> 
-                    <Card className="hover:scale-105 duration-200 pb-3 rounded-2xl shadow-lg h-[450px]" >
+                    <Card className="hover:scale-105 duration-200 pb-3 rounded-2xl shadow-lg h-[600px]" >
                     <Image
                       src={post.src}
                       alt={post.tittle}
