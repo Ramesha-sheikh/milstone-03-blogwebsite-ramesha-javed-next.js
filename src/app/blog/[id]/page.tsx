@@ -22,7 +22,7 @@ export const generateMetadata = async ({
   });
   return {
     title: {
-      absolute: `Agriswara | Blog ${params.id}`,
+      absolute: `HealthyPulse | Blog ${params.id}`,
     },
   };
 };
